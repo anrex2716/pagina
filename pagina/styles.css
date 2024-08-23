@@ -1,0 +1,32 @@
+
+body {
+    background-color: #beb8f5; /* Color gris claro */
+    font-family: 'Arial', sans-serif;
+}
+
+    
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-image: url('hhh.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.card {
+    background-color: 1px solid rgb(54, 10, 230);;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgb(27, 0, 231);
+}
+
+footer {
+    background-color: #5114eb;
+}
+
+footer p {
+    margin: 0;
+}
+
